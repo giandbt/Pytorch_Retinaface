@@ -1,0 +1,7 @@
+results
+weights
+*pyc
+*.idea
+.ipynb_checkpoints
+widerface_txt
+data/widerface
